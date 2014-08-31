@@ -1,0 +1,4 @@
+E:\Documents\Development\EulerSharp\EulerSharp.Common\bin\Debug\EulerSharp.Common.dll
+E:\Documents\Development\EulerSharp\EulerSharp.Common\bin\Debug\EulerSharp.Common.pdb
+E:\Documents\Development\EulerSharp\EulerSharp.Common\obj\Debug\EulerSharp.Common.dll
+E:\Documents\Development\EulerSharp\EulerSharp.Common\obj\Debug\EulerSharp.Common.pdb

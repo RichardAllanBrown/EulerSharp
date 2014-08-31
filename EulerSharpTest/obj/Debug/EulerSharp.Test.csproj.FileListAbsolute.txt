@@ -1,0 +1,11 @@
+E:\Documents\Development\EulerSharp\EulerSharpTest\obj\Debug\EulerSharp.Test.csprojResolveAssemblyReference.cache
+E:\Documents\Development\EulerSharp\EulerSharpTest\obj\Debug\EulerSharpTest.dll
+E:\Documents\Development\EulerSharp\EulerSharpTest\obj\Debug\EulerSharpTest.pdb
+E:\Documents\Development\EulerSharp\EulerSharpTest\bin\Debug\EulerSharpTest.dll
+E:\Documents\Development\EulerSharp\EulerSharpTest\bin\Debug\EulerSharpTest.pdb
+E:\Documents\Development\EulerSharp\EulerSharpTest\bin\Debug\EulerSharp.exe
+E:\Documents\Development\EulerSharp\EulerSharpTest\bin\Debug\EulerSharp.Solutions.dll
+E:\Documents\Development\EulerSharp\EulerSharpTest\bin\Debug\EulerSharp.Solutions.pdb
+E:\Documents\Development\EulerSharp\EulerSharpTest\bin\Debug\EulerSharp.pdb
+E:\Documents\Development\EulerSharp\EulerSharpTest\bin\Debug\EulerSharp.Common.dll
+E:\Documents\Development\EulerSharp\EulerSharpTest\bin\Debug\EulerSharp.Common.pdb

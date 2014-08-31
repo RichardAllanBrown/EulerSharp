@@ -1,0 +1,10 @@
+E:\Documents\Development\EulerSharp\EulerSharp\bin\Debug\EulerSharp.exe.config
+E:\Documents\Development\EulerSharp\EulerSharp\bin\Debug\EulerSharp.exe
+E:\Documents\Development\EulerSharp\EulerSharp\bin\Debug\EulerSharp.pdb
+E:\Documents\Development\EulerSharp\EulerSharp\bin\Debug\EulerSharp.Common.dll
+E:\Documents\Development\EulerSharp\EulerSharp\bin\Debug\EulerSharp.Common.pdb
+E:\Documents\Development\EulerSharp\EulerSharp\obj\Debug\EulerSharp.Console.csprojResolveAssemblyReference.cache
+E:\Documents\Development\EulerSharp\EulerSharp\obj\Debug\EulerSharp.exe
+E:\Documents\Development\EulerSharp\EulerSharp\obj\Debug\EulerSharp.pdb
+E:\Documents\Development\EulerSharp\EulerSharp\bin\Debug\EulerSharp.Solutions.dll
+E:\Documents\Development\EulerSharp\EulerSharp\bin\Debug\EulerSharp.Solutions.pdb

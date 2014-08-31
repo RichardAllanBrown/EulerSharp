@@ -1,0 +1,5 @@
+E:\Documents\Development\EulerSharp\EulerSharpTest\bin\Debug\EulerSharpTest.dll
+E:\Documents\Development\EulerSharp\EulerSharpTest\bin\Debug\EulerSharpTest.pdb
+E:\Documents\Development\EulerSharp\EulerSharpTest\obj\Debug\EulerSharpTest.csprojResolveAssemblyReference.cache
+E:\Documents\Development\EulerSharp\EulerSharpTest\obj\Debug\EulerSharpTest.dll
+E:\Documents\Development\EulerSharp\EulerSharpTest\obj\Debug\EulerSharpTest.pdb
